@@ -1,7 +1,7 @@
 
-# Bangkit Team C23-PR536, EcoSorter
+#  EcoSorter - Bangkit Team C23-PR536 
 
-  
+  <img src="https://cdn.discordapp.com/attachments/1094915099732488297/1119244757605023777/image.png">
 
 Product-based Capstone Bangkit Academy 2023
 
